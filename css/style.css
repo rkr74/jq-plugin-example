@@ -1,0 +1,50 @@
+body {
+	overflow-x: hidden;
+}
+.box_slick {
+	height: 200px;
+	background-color: greenyellow;
+} 
+.box_slick_nav {
+    width: 200px !important;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+    cursor: pointer;
+}
+.box_1, .box_2, .box_3 {
+	width: 100%;
+	height: 200px;
+}
+.box {
+	width: 100%;
+	height: 550px;
+	background-color: greenyellow;
+}
+.box_1 {
+	background-color: blue;
+}
+.box_2 {
+	background-color: red;
+}
+.box_3 {
+	background-color: blue;
+}
+#more {
+  margin: 20px auto 48px;
+}
+
+.wow:first-child {
+      visibility: hidden;
+}
+.block_c {
+        width: 100%;
+        height: 300px;
+}
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+}
+.padding {
+    padding: 100px;
+}
